@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2026-03-09",
+        "amount": 50.0,
+        "category": "Grocery",
+        "description": "Food Shopping"
+    },
+    {
+        "date": "2026-03-09",
+        "amount": 500.0,
+        "category": "Activities",
+        "description": "extracurricular activities"
+    },
+    {
+        "date": "2026-03-09",
+        "amount": 150.0,
+        "category": "Grocery",
+        "description": "Food Shopping"
+    },
+    {
+        "date": "2026-03-09",
+        "amount": 40.0,
+        "category": "Travel",
+        "description": "Bus Fare"
+    }
+]
