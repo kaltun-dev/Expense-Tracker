@@ -179,4 +179,6 @@ Future enhancements could include:
 
 ## Author
 
-Developed as a beginner Python project for learning programming fundamentals and building a technical portfolio.
+Developed as a beginner Python project for learning programming 
+
+##
